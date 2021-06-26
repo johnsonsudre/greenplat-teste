@@ -1,0 +1,20 @@
+[
+{"name":"Antonio Jose dos Santos", 
+  "cpf": "123456789-01",
+  "bdate": "22/04/1993",
+  "uf": "SP",
+  "city": "Campinas"
+},
+{"name":"Juliana Matins Oliveira", 
+  "cpf": "987.543.210-99",
+  "bdate": "13/07/1998",
+  "uf": "RJ",
+  "city": "São José do Vale do Rio Preto"
+},
+{"name":"Manoel Jesus da Costa", 
+  "cpf": "258.396.147-55",
+  "bdate": "13/07/1987",
+  "uf": "SC",
+  "city": "Balneário Camburiú"
+}
+]
